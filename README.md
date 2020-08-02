@@ -1,4 +1,4 @@
-### Hello! 😁
+### Hello! 👨‍💻
 
 My name is Eduardo Telmo do Brasil (🇧🇷). I've been working as a developer since 2015. I'm passionate about programming.
 
