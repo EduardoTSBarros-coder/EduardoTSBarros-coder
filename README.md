@@ -1,6 +1,6 @@
 ### Hello! 👨‍💻
 
-My name is Eduardo Telmo do Brasil (🇧🇷). I've been working as a developer since 2015. I'm passionate about programming.
+My name is Eduardo Telmo da Silva Barros do Brasil (🇧🇷). I've been working as a developer since 2015. I'm passionate about programming.
 
 In my free time, I like to study new web development technologies
 
